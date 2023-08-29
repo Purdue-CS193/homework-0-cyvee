@@ -1,3 +1,9 @@
+# Caroline Albright's First CS193 Homework
+
+### Favorite things about CS193:
+- It's student run! So all of our instructors really understand what we're going through from semester to semester. You guys understand the grind!
+- The *tasteful memes* in the powerpoints
+- It's going to be teaching me applicable skills I can utilize in other classes and in my (eventual) career.
 
 # Original website text:
 ## Welcome to GitHub Pages
